@@ -1,2 +1,2 @@
 # pincodes
-Open source geo hash system using words
+An open-source geospatial encoding system using words
